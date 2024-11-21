@@ -28,9 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.cmbMunicipios = new System.Windows.Forms.ComboBox();
             this.cmbLocalidades = new System.Windows.Forms.ComboBox();
             this.btnGenerarReporte = new System.Windows.Forms.Button();
@@ -71,16 +71,16 @@
             // 
             // chartPoblacion
             // 
-            chartArea2.Name = "ChartArea1";
-            this.chartPoblacion.ChartAreas.Add(chartArea2);
-            legend2.Name = "Legend1";
-            this.chartPoblacion.Legends.Add(legend2);
+            chartArea1.Name = "ChartArea1";
+            this.chartPoblacion.ChartAreas.Add(chartArea1);
+            legend1.Name = "Legend1";
+            this.chartPoblacion.Legends.Add(legend1);
             this.chartPoblacion.Location = new System.Drawing.Point(457, 12);
             this.chartPoblacion.Name = "chartPoblacion";
-            series2.ChartArea = "ChartArea1";
-            series2.Legend = "Legend1";
-            series2.Name = "Series1";
-            this.chartPoblacion.Series.Add(series2);
+            series1.ChartArea = "ChartArea1";
+            series1.Legend = "Legend1";
+            series1.Name = "Series1";
+            this.chartPoblacion.Series.Add(series1);
             this.chartPoblacion.Size = new System.Drawing.Size(338, 300);
             this.chartPoblacion.TabIndex = 3;
             this.chartPoblacion.Text = "chart1";
@@ -116,6 +116,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(1155, 453);
             this.Controls.Add(this.btnVolver);
             this.Controls.Add(this.lblSeleccion);
