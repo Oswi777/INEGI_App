@@ -1,0 +1,414 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\vistas\\registrarhabitanteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|solutionrelative:vistas\\registrarhabitanteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\vistas\\registrarhabitanteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|solutionrelative:vistas\\registrarhabitanteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\vistas\\registrarviviendaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|solutionrelative:vistas\\registrarviviendaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\vistas\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|solutionrelative:vistas\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|c:\\users\\elgua\\downloads\\censoinegi\\censoinegi\\vistas\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|solutionrelative:vistas\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\vistas\\crearusuarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|solutionrelative:vistas\\crearusuarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|c:\\users\\elgua\\downloads\\censoinegi\\censoinegi\\vistas\\consultarhabitantesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|solutionrelative:vistas\\consultarhabitantesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|c:\\users\\elgua\\downloads\\censoinegi\\censoinegi\\vistas\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|solutionrelative:vistas\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\vistas\\consultarhabitantesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|solutionrelative:vistas\\consultarhabitantesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\vistas\\registrarviviendaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|solutionrelative:vistas\\registrarviviendaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\vistas\\crearusuarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|solutionrelative:vistas\\crearusuarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\vistas\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|solutionrelative:vistas\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\repositories\\localidadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|solutionrelative:repositories\\localidadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\repositories\\habitanterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|solutionrelative:repositories\\habitanterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\repositories\\actividadeconomicarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|solutionrelative:repositories\\actividadeconomicarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\repositories\\viviendarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|solutionrelative:repositories\\viviendarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\models\\vivienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|solutionrelative:models\\vivienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|c:\\users\\elgua\\downloads\\censoinegi\\censoinegi\\vistas\\consultarhabitantesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|solutionrelative:vistas\\consultarhabitantesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\repositories\\municipiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|solutionrelative:repositories\\municipiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\repositories\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|solutionrelative:repositories\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\repositories\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|solutionrelative:repositories\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|solutionrelative:repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\models\\habitante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6F9321-22D4-4674-BEAF-61A23A643315}|CensoINEGI.csproj|solutionrelative:models\\habitante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Vistas\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Vistas\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Vistas\\LoginForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\LoginForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:00:07.375Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrarHabitanteForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Vistas\\RegistrarHabitanteForm.cs",
+              "RelativeDocumentMoniker": "Vistas\\RegistrarHabitanteForm.cs",
+              "ToolTip": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Vistas\\RegistrarHabitanteForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\RegistrarHabitanteForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:27:56.438Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrarViviendaForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Vistas\\RegistrarViviendaForm.cs",
+              "RelativeDocumentMoniker": "Vistas\\RegistrarViviendaForm.cs",
+              "ToolTip": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Vistas\\RegistrarViviendaForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\RegistrarViviendaForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T02:58:47.991Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Vistas\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Vistas\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Vistas\\LoginForm.cs",
+              "RelativeToolTip": "Vistas\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:04:55.925Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CrearUsuarioForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Vistas\\CrearUsuarioForm.cs",
+              "RelativeDocumentMoniker": "Vistas\\CrearUsuarioForm.cs",
+              "ToolTip": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Vistas\\CrearUsuarioForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\CrearUsuarioForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T01:38:18.868Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CrearUsuarioForm.cs",
+              "DocumentMoniker": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Vistas\\CrearUsuarioForm.cs",
+              "RelativeDocumentMoniker": "Vistas\\CrearUsuarioForm.cs",
+              "ToolTip": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Vistas\\CrearUsuarioForm.cs",
+              "RelativeToolTip": "Vistas\\CrearUsuarioForm.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAASwL8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T01:38:30.797Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegistrarViviendaForm.cs",
+              "DocumentMoniker": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Vistas\\RegistrarViviendaForm.cs",
+              "RelativeDocumentMoniker": "Vistas\\RegistrarViviendaForm.cs",
+              "ToolTip": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Vistas\\RegistrarViviendaForm.cs",
+              "RelativeToolTip": "Vistas\\RegistrarViviendaForm.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAApwEUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:33:17.514Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrarHabitanteForm.cs",
+              "DocumentMoniker": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Vistas\\RegistrarHabitanteForm.cs",
+              "RelativeDocumentMoniker": "Vistas\\RegistrarHabitanteForm.cs",
+              "ToolTip": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Vistas\\RegistrarHabitanteForm.cs",
+              "RelativeToolTip": "Vistas\\RegistrarHabitanteForm.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADgv1gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:32:57.434Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsultarHabitantesForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Vistas\\ConsultarHabitantesForm.cs",
+              "RelativeDocumentMoniker": "Vistas\\ConsultarHabitantesForm.cs",
+              "ToolTip": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Vistas\\ConsultarHabitantesForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\ConsultarHabitantesForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:44:07.373Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsultarHabitantesForm.cs",
+              "DocumentMoniker": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Vistas\\ConsultarHabitantesForm.cs",
+              "RelativeDocumentMoniker": "Vistas\\ConsultarHabitantesForm.cs",
+              "ToolTip": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Vistas\\ConsultarHabitantesForm.cs",
+              "RelativeToolTip": "Vistas\\ConsultarHabitantesForm.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAhwHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:53:41.481Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ActividadEconomicaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Repositories\\ActividadEconomicaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ActividadEconomicaRepository.cs",
+              "ToolTip": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Repositories\\ActividadEconomicaRepository.cs",
+              "RelativeToolTip": "Repositories\\ActividadEconomicaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:12:20.204Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Vistas\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "Vistas\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Vistas\\DashboardForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\DashboardForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:26:09.904Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Vistas\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "Vistas\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Vistas\\DashboardForm.cs",
+              "RelativeToolTip": "Vistas\\DashboardForm.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAhwLAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:29:59.786Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConsultarHabitantesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Vistas\\ConsultarHabitantesForm.Designer.cs",
+              "RelativeDocumentMoniker": "Vistas\\ConsultarHabitantesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Vistas\\ConsultarHabitantesForm.Designer.cs",
+              "RelativeToolTip": "Vistas\\ConsultarHabitantesForm.Designer.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAApwJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:15:10.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Repositories\\Administrador.cs",
+              "RelativeDocumentMoniker": "Repositories\\Administrador.cs",
+              "ToolTip": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Repositories\\Administrador.cs",
+              "RelativeToolTip": "Repositories\\Administrador.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:14:38.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MunicipioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Repositories\\MunicipioRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\MunicipioRepository.cs",
+              "ToolTip": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Repositories\\MunicipioRepository.cs",
+              "RelativeToolTip": "Repositories\\MunicipioRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:15:55.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LocalidadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Repositories\\LocalidadRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\LocalidadRepository.cs",
+              "ToolTip": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Repositories\\LocalidadRepository.cs",
+              "RelativeToolTip": "Repositories\\LocalidadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:15:49.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ViviendaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Repositories\\ViviendaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ViviendaRepository.cs",
+              "ToolTip": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Repositories\\ViviendaRepository.cs",
+              "RelativeToolTip": "Repositories\\ViviendaRepository.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwHMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:16:07.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HabitanteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Repositories\\HabitanteRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\HabitanteRepository.cs",
+              "ToolTip": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Repositories\\HabitanteRepository.cs",
+              "RelativeToolTip": "Repositories\\HabitanteRepository.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAQwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:35:01.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Repositories\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "Repositories\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Repositories\\DatabaseConnection.cs",
+              "RelativeToolTip": "Repositories\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:32:12.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Vivienda.cs",
+              "DocumentMoniker": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Models\\Vivienda.cs",
+              "RelativeDocumentMoniker": "Models\\Vivienda.cs",
+              "ToolTip": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Models\\Vivienda.cs",
+              "RelativeToolTip": "Models\\Vivienda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:02:52.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAgwIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:16:02.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Habitante.cs",
+              "DocumentMoniker": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Models\\Habitante.cs",
+              "RelativeDocumentMoniker": "Models\\Habitante.cs",
+              "ToolTip": "C:\\Users\\ELGUA\\Downloads\\CensoINEGI\\CensoINEGI\\Models\\Habitante.cs",
+              "RelativeToolTip": "Models\\Habitante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:34:42.723Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

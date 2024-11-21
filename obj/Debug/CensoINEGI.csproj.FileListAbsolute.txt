@@ -1,0 +1,140 @@
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\CensoINEGI.exe.config
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\CensoINEGI.exe
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\CensoINEGI.pdb
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\Google.Protobuf.dll
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\MySql.Data.dll
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\System.Buffers.dll
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\System.Memory.dll
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\ZstdSharp.dll
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\Google.Protobuf.pdb
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\Google.Protobuf.xml
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\MySql.Data.xml
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\System.Buffers.xml
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\System.Memory.xml
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ELGUA\source\repos\CensoINEGI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ELGUA\source\repos\CensoINEGI\obj\Debug\CensoINEGI.csproj.AssemblyReference.cache
+C:\Users\ELGUA\source\repos\CensoINEGI\obj\Debug\CensoINEGI.Properties.Resources.resources
+C:\Users\ELGUA\source\repos\CensoINEGI\obj\Debug\CensoINEGI.csproj.GenerateResource.cache
+C:\Users\ELGUA\source\repos\CensoINEGI\obj\Debug\CensoINEGI.csproj.CoreCompileInputs.cache
+C:\Users\ELGUA\source\repos\CensoINEGI\obj\Debug\CensoINEGI.csproj.Up2Date
+C:\Users\ELGUA\source\repos\CensoINEGI\obj\Debug\CensoINEGI.exe
+C:\Users\ELGUA\source\repos\CensoINEGI\obj\Debug\CensoINEGI.pdb
+C:\Users\ELGUA\source\repos\CensoINEGI\obj\Debug\CensoINEGI.Vistas.LoginForm.resources
+C:\Users\ELGUA\source\repos\CensoINEGI\obj\Debug\CensoINEGI.Vistas.CrearUsuarioForm.resources
+C:\Users\ELGUA\source\repos\CensoINEGI\obj\Debug\CensoINEGI.Vistas.RegistrarViviendaForm.resources
+C:\Users\ELGUA\source\repos\CensoINEGI\obj\Debug\CensoINEGI.Vistas.RegistrarHabitanteForm.resources
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\CensoINEGI.exe.config
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\CensoINEGI.exe
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\CensoINEGI.pdb
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\Google.Protobuf.dll
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\MySql.Data.dll
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\System.Buffers.dll
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\System.Memory.dll
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\ZstdSharp.dll
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\Google.Protobuf.pdb
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\Google.Protobuf.xml
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\MySql.Data.xml
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\System.Buffers.xml
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\System.Memory.xml
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\obj\Debug\CensoINEGI.csproj.AssemblyReference.cache
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\obj\Debug\CensoINEGI.Properties.Resources.resources
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\obj\Debug\CensoINEGI.Vistas.CrearUsuarioForm.resources
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\obj\Debug\CensoINEGI.Vistas.LoginForm.resources
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\obj\Debug\CensoINEGI.Vistas.RegistrarHabitanteForm.resources
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\obj\Debug\CensoINEGI.Vistas.RegistrarViviendaForm.resources
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\obj\Debug\CensoINEGI.csproj.GenerateResource.cache
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\obj\Debug\CensoINEGI.csproj.CoreCompileInputs.cache
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\obj\Debug\CensoINEGI.csproj.Up2Date
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\obj\Debug\CensoINEGI.exe
+C:\Users\sofia\Downloads\CensoINEGI (1)\CensoINEGI\obj\Debug\CensoINEGI.pdb
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\CensoINEGI.exe.config
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\CensoINEGI.exe
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\CensoINEGI.pdb
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\Google.Protobuf.dll
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\MySql.Data.dll
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\System.Buffers.dll
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\System.Memory.dll
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\ZstdSharp.dll
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\Google.Protobuf.pdb
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\Google.Protobuf.xml
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\MySql.Data.xml
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\System.Buffers.xml
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\System.Memory.xml
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\obj\Debug\CensoINEGI.csproj.AssemblyReference.cache
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\obj\Debug\CensoINEGI.Properties.Resources.resources
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\obj\Debug\CensoINEGI.Vistas.CrearUsuarioForm.resources
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\obj\Debug\CensoINEGI.Vistas.LoginForm.resources
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\obj\Debug\CensoINEGI.Vistas.RegistrarHabitanteForm.resources
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\obj\Debug\CensoINEGI.Vistas.RegistrarViviendaForm.resources
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\obj\Debug\CensoINEGI.csproj.GenerateResource.cache
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\obj\Debug\CensoINEGI.csproj.CoreCompileInputs.cache
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\obj\Debug\CensoINEGI.csproj.Up2Date
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\obj\Debug\CensoINEGI.exe
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\obj\Debug\CensoINEGI.pdb
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\obj\Debug\CensoINEGI.Vistas.ConsultarHabitantesForm.resources
+C:\Users\ELGUA\Downloads\CensoINEGI\CensoINEGI\obj\Debug\CensoINEGI.Vistas.DashboardForm.resources
